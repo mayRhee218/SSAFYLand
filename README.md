@@ -7,7 +7,7 @@ A metaverse implementation of event venues for SSAFY members such as Ssafy Meet 
 - Kim Daye  
 - Kim Seongwoo  
 - Lim Hyeonmo  
-- Lee Myeongseong  
+- Rhee Myeongseong  
 - Lee Sanghyun  
 - Choi Daeho  
 
