@@ -141,8 +141,8 @@ docker-compose up -d --build --force-recreate
 
 ### Mid-term Presentation 
 
-[SSAFYLand\_중간발표.pdf](exec/SSAFYLand_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pdf)
+[SSAFYLand\_MidTerm_Presentation.pdf](exec/SSAFYLand_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pdf)
 
 ### Final Presentation  
 
-[SSAFYLand\_최종발표.pdf](exec/SSAFYLand_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
+[SSAFYLand\_Final_Presentation.pdf](exec/SSAFYLand_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
